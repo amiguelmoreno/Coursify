@@ -13,7 +13,7 @@
      <br />
      <br />
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=react,prisma,next,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,typescript,prisma,next,tailwind" />
   </a>
     <br />
     <br />
