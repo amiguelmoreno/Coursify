@@ -56,7 +56,11 @@ const ChapterIdPage = async ({
         ></Banner>
       )}
       <div className='flex flex-col max-w-4xl mx-auto pb-20'>
-        <div className='p-4'>
+        <div className='relative p-4'>
+          <p className='absolute z-50 bg-orange-400 p-2 rounded-sm m-4 bottom-4'>
+            Videos are currently unavailable due to the limitations of free
+            service plans.
+          </p>
           <VideoPlayer
             chapterId={params.chapterId}
             title={chapter.title}
